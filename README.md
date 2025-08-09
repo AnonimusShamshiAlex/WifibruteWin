@@ -12,5 +12,5 @@
 Внутри должна быть папка bin с файлами g++.exe и gcc.exe.
 
 
-https://winlibs.com/
+
 
